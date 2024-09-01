@@ -1,0 +1,47 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+.logos{
+    position: absolute;
+}
+
+.quote{
+    color: black !important;
+    border: 1px solid #000 !important;
+    margin-right: 150px;
+    font-size: large;
+}
+
+.mmm{
+    margin-left: 490px;
+    display: flex;
+    gap: 20px;
+    font-size: large;
+}
+
+.nav-link{
+    color: #000 !important;
+}
+
+.navbar-brand{
+    /* margin-left: 100px; */
+    font-size: large;
+}
+.herosection{
+    /* border: 1px solid #000; */
+    width: 100%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 170px;
+}
+.frame{
+height: 400px;
+width: 500px;
+}
+
+.cards{
+    height: 500px;
+    width: 100%;
+}
